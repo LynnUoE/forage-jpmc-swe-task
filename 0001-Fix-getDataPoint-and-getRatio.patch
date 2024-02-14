@@ -144,19 +144,3 @@ index 3fc09b7..c742b7e 100644
 -- 
 2.40.0.windows.1
 
-From 34a67c4f9634b54a4c1458931de2a3b7afbafba4 Mon Sep 17 00:00:00 2001
-From: LynnUoE <2842763156@qq.com>
-Date: Wed, 14 Feb 2024 17:52:11 +0000
-Subject: [PATCH 2/2] Create multi_commit.patch
-
----
- multi_commit.patch | 0
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 multi_commit.patch
-
-diff --git a/multi_commit.patch b/multi_commit.patch
-new file mode 100644
-index 0000000..e69de29
--- 
-2.40.0.windows.1
-
